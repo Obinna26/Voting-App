@@ -7,7 +7,7 @@ on:
     branches: [ "master" ]
 
 jobs:
-  laravel-tests:
+  Nigeriansdecides-tests:
 
     runs-on: ubuntu-latest
 
